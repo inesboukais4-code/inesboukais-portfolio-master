@@ -28,4 +28,4 @@ Ce projet porte sur l’application de techniques de Machine Learning pour la cl
 - Utilisation de bibliothèques IA / Data
 
 ## Rapport
-
+[📄 Voir le rapport](rapport_.pdf)
