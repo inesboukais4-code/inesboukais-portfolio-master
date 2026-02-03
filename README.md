@@ -11,7 +11,6 @@ En recherche d’un master en informatique, je m’investis dans des projets aca
 ## Projets Dev & Data
 - [Système d’accès automatisé par RFID pour salles de sport](projects/tryhackme/README.md)
 - [Classification des espèces d’Iris (IA / Data)](projects/kali-metasploitable/README.md)  
-- [Gestionnaire de fichiers Linux](projects/gestionnaire-linux/README.md)  
 - [Optimisation de la Gestion des Déchets Recyclables](projects/CTF-CSI/README.md)
 
 ## Certifications
