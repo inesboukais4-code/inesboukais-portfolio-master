@@ -21,3 +21,5 @@ Ce projet consiste en la conception et le développement d’un système de cont
 - Programmation : Python, Java  
 - Réseaux : TCP  
 
+## Rapport
+[📄 Voir le rapport](rapport.pdf)
