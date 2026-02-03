@@ -11,7 +11,7 @@ En recherche d’un master en informatique, je m’investis dans des projets aca
 ## Projets Dev & Data
 - [Système d’accès automatisé par RFID pour salles de sport](projects/Système_d’accès_automatisé_RFID_pour_salles_de_sport/README.md)
 - [Classification des espèces d’Iris (IA / Data)](projects/Classification_des_espèces_Iris/README.md)  
-- [Optimisation de la Gestion des Déchets Recyclables](projects/CTF-CSI/README.md)
+- [Optimisation de la Gestion des Déchets Recyclables](projects/Optimisation_de_la_Gestion_des_Déchets_Recyclables/README.md)
 
 ## Certifications
 - [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
