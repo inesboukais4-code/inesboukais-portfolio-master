@@ -1,6 +1,6 @@
 # Portfolio – Ines BOUKAIS
 
-En recherche d’un master en informatique, je m’investis dans des projets académiques et personnels en informatique, cybersécurité et data, ainsi que dans des challenges techniques et des laboratoires pratiques, afin de renforcer mes compétences en systèmes, réseaux, programmation et sécurité des données.
+En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / Master), je m'investis dans des projets académiques et personnels en cybersécurité, développement et data. Ce portfolio retrace mes challenges techniques et mes laboratoires pratiques visant à renforcer mon expertise en systèmes, réseaux et sécurisation des données.
 
 ## Projets Cybersécurité
 - [TryHackMe Challenges](projects/tryhackme/README.md)
