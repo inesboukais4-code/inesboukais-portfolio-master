@@ -13,6 +13,10 @@ En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / M
 - [Classification des espèces d’Iris (IA / Data)](projects/Classification_des_espèces_Iris/README.md)  
 - [Optimisation de la Gestion des Déchets Recyclables](projects/Optimisation_de_la_Gestion_des_Déchets_Recyclables/README.md)
 
+## Projets Systèmes embarqués
+- [Système de communication sans fil multi-modalité entre microcontrôleurs](projects/Système_d’accès_automatisé_RFID_pour_salles_de_sport/README.md)
+
+
 ## Certifications
 - [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
 - [Google Cybersecurity Professional Certificate](certifs/google-cybersecurity-certificate.pdf)  
