@@ -14,7 +14,7 @@ En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / M
 - [Optimisation de la Gestion des Déchets Recyclables](projects/Optimisation_de_la_Gestion_des_Déchets_Recyclables/README.md)
 
 ## Projets Systèmes embarqués
-- [Système de communication sans fil multi-modalité entre microcontrôleurs](projects/Système_d’accès_automatisé_RFID_pour_salles_de_sport/README.md)
+- [Système de communication sans fil multi-modalité entre microcontrôleurs](projects/Système_de_communication_sans_fil_multi_modalité_entre_microcontrôleurs/README.md)
 
 
 ## Certifications
