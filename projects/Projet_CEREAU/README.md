@@ -88,6 +88,11 @@ Une phase pilote a été planifiée dans des établissements scolaires afin de :
 
 ---
 
+## Slides
+[📄 Voir les Slides](Diapos_Cati.pdf)
+
+---
+
 ## Conclusion
 
 CER'EAU illustre la transformation d’une problématique environnementale en une solution technologique, durable et économiquement structurée.
