@@ -108,6 +108,8 @@ L’objectif est de mettre en œuvre les principaux périphériques matériels d
 - Nelly Sautron
 
 ---
+## Slides
+[📄 Voir les Slides](rapport.pdf)
 
 ## Conclusion
 
