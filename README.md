@@ -18,7 +18,7 @@ En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / M
 
 
 ## Certifications
-- [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
+- [Google AI Professional Certificate](certifs/google-cybersecurity-badge.pdf)    
 - [Google Cybersecurity Professional Certificate](certifs/google-cybersecurity-certificate.pdf)  
 
 ## Rapports pratiques
