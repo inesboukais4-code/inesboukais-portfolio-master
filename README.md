@@ -27,6 +27,9 @@ En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / M
 - [Security Risk Assessment Report](reports/security-risk-assessment.pdf)  
 - [Security Incident Report – OS Hardening](reports/security-incident.pdf)  
 - [Incident Handler’s Journal](reports/incident_handlers_journal.pdf)
+
+## Engagement & Projets Interdisciplinaires  
+- [Projet CER'EAU (Ateliers Transversaux 2024-2025)](reports/incident_handlers_journal.pdf)
   
 ## Contact
 - Email : [ines.boukais4@gmail.com](mailto:ines.boukais4@gmail.com)  
