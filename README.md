@@ -29,7 +29,7 @@ En préparation d'un cycle supérieur en informatique (Écoles d'Ingénieurs / M
 - [Incident Handler’s Journal](reports/incident_handlers_journal.pdf)
 
 ## Engagement & Projets Interdisciplinaires  
-- [Projet CER'EAU (Ateliers Transversaux 2024-2025)](reports/incident_handlers_journal.pdf)
+- [Projet CER'EAU (Ateliers Transversaux 2024-2025)](projects/Projet_CEREAU/README.md)
   
 ## Contact
 - Email : [ines.boukais4@gmail.com](mailto:ines.boukais4@gmail.com)  
