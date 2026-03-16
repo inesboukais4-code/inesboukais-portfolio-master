@@ -1,10 +1,10 @@
 # TryHackMe Challenges
 
-Ce repository regroupe mon **parcours d’apprentissage en cybersécurité** à travers les laboratoires et les parcours proposés sur **TryHackMe**.
+Ce repository regroupe mon parcours d’apprentissage en cybersécurité à travers les laboratoires et les parcours proposés sur TryHackMe.
 
-Je documente ici ma progression dans les différents **learning paths**, notamment dans le domaine de la **défense (Blue Team)** et de l’analyse de sécurité.
+Je documente ici ma progression dans les différents learning paths, notamment dans le domaine de la défense (Blue Team) et de l’analyse de sécurité.
 
-Actuellement, je travaille sur le parcours **SOC Level 1**, qui prépare au rôle d’analyste en **Security Operations Center (SOC)**.
+Actuellement, je travaille sur le parcours SOC Level 1, qui prépare au rôle d’analyste en Security Operations Center (SOC).
 
 ---
 
@@ -14,8 +14,8 @@ L’objectif de ce repository est de :
 
 - Suivre ma progression en cybersécurité  
 - Documenter les concepts que j’apprends  
-- Construire progressivement un **portfolio technique**  
-- Développer mes compétences en **analyse de sécurité et investigation**
+- Construire progressivement un portfolio technique  
+- Développer mes compétences en analyse de sécurité et investigation
 
 ---
 
@@ -23,9 +23,9 @@ L’objectif de ce repository est de :
 
 ## SOC Level 1 — TryHackMe
 
-Le **Security Operations Center (SOC)** est l’équipe chargée de surveiller, détecter et répondre aux incidents de sécurité dans une organisation.
+Le Security Operations Center (SOC) est l’équipe chargée de surveiller, détecter et répondre aux incidents de sécurité dans une organisation.
 
-Un **SOC Analyst** est notamment responsable de :
+Un SOC Analyst est notamment responsable de :
 
 - l’analyse des logs  
 - la détection d’activités suspectes  
@@ -33,7 +33,7 @@ Un **SOC Analyst** est notamment responsable de :
 - l’investigation d’incidents  
 - la collaboration avec les équipes de sécurité  
 
-Ce parcours permet d’acquérir les compétences techniques nécessaires pour un **poste junior en Blue Team**.
+Ce parcours permet d’acquérir les compétences techniques nécessaires pour un poste junior en Blue Team.
 
 
 ---
@@ -83,7 +83,7 @@ Apprentissage de techniques pour :
 
 ## Analyse du trafic réseau
 
-Utilisation d’outils comme **Wireshark** pour :
+Utilisation d’outils comme Wireshark pour :
 
 - analyser le trafic réseau  
 - détecter des activités malveillantes  
@@ -105,8 +105,8 @@ Utilisation d’**IDS** comme **Snort** pour :
 
 Analyse des logs de sécurité :
 
-- **Windows Security Monitoring**  
-- **Linux Security Monitoring**  
+- Windows Security Monitoring 
+- Linux Security Monitoring 
 
 Objectif : détecter des attaques et comportements suspects sur les systèmes.
 
