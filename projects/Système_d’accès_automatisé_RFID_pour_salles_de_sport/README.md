@@ -6,7 +6,7 @@ Ce projet consiste à développer un système de gestion d’accès automatisé 
 
 L’objectif est de permettre aux membres d’accéder aux installations en approchant simplement leur carte RFID d’un lecteur, tout en permettant au système de vérifier automatiquement leur identité et leur abonnement.
 
-Le système repose sur une base de données relationnelle et une communication client/serveur permettant de valider ou refuser l’accès en temps réel. :contentReference[oaicite:1]{index=1}
+Le système repose sur une base de données relationnelle et une communication client/serveur permettant de valider ou refuser l’accès en temps réel.
 
 ---
 
@@ -37,7 +37,7 @@ Le fonctionnement du système repose sur les étapes suivantes :
 4. Si l’abonnement est actif → accès autorisé.
 5. Sinon → accès refusé.
 
-Le diagramme applicatif illustre la communication entre le client et le serveur et les vérifications réalisées côté serveur. :contentReference[oaicite:2]{index=2}
+Le diagramme applicatif illustre la communication entre le client et le serveur et les vérifications réalisées côté serveur.
 
 ---
 
@@ -65,7 +65,7 @@ Le serveur :
 - Authorized access
 - Unauthorized access
 
-Les tests ont été réalisés via un client Python et également via Netcat pour simuler des requêtes réseau. :contentReference[oaicite:3]{index=3}
+Les tests ont été réalisés via un client Python et également via Netcat pour simuler des requêtes réseau. 
 
 ---
 
@@ -162,7 +162,7 @@ Résultat :
 Unauthorized access
 ```
 
-Ces tests ont été réalisés via le client Python et via Netcat pour vérifier le fonctionnement du serveur. :contentReference[oaicite:4]{index=4}
+Ces tests ont été réalisés via le client Python et via Netcat pour vérifier le fonctionnement du serveur. 
 
 ---
 
@@ -185,7 +185,7 @@ Projet réalisé par :
 - **Ines Boukais**
 - Ali Gouarab
 
-Année universitaire : **2024 / 2025**
+Année universitaire : 2024 / 2025
 
 ---
 
