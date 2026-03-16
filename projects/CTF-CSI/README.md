@@ -36,8 +36,6 @@ Compétences travaillées :
 - décryptage à l’aide d’outils ou de scripts
 - compréhension des faiblesses cryptographiques
 
----
-
 ## Forensic
 
 Les challenges de forensic (analyse forensique) consistent à analyser des fichiers ou systèmes afin de retrouver des informations cachées.
@@ -49,8 +47,6 @@ Compétences travaillées :
 - analyse de logs
 - investigation numérique
 
----
-
 ## Web Security
 
 Les challenges web portent sur l’analyse d’applications web vulnérables.
@@ -61,8 +57,6 @@ Compétences travaillées :
 - analyse du code HTML et JavaScript
 - manipulation de requêtes HTTP
 - exploitation de failles web simples
-
----
 
 ## Reverse Engineering
 
