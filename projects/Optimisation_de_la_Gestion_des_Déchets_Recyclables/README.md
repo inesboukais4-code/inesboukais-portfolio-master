@@ -10,7 +10,7 @@ La plateforme met en relation plusieurs acteurs :
 - les transporteurs
 - les entreprises de recyclage
 
-L’objectif est de simplifier la gestion de la collecte des déchets et d’améliorer la transparence du marché du recyclage.:contentReference[oaicite:1]{index=1}
+L’objectif est de simplifier la gestion de la collecte des déchets et d’améliorer la transparence du marché du recyclage.
 
 ---
 
@@ -22,9 +22,9 @@ En Algérie, la gestion des déchets rencontre plusieurs difficultés :
 - manque d’outils numériques
 - manque de transparence sur les prix des déchets recyclables
 
-Chaque année, le pays produit environ 20 millions de tonnes de déchets, mais seulement une faible partie est recyclée. :contentReference[oaicite:2]{index=2}
+Chaque année, le pays produit environ 20 millions de tonnes de déchets, mais seulement une faible partie est recyclée. 
 
-Ce projet propose donc une **solution numérique pour faciliter la collecte et la gestion des déchets recyclables.
+Ce projet propose donc une solution numérique pour faciliter la collecte et la gestion des déchets recyclables.
 
 ---
 
@@ -87,13 +87,13 @@ Une méthodologie de développement logiciel :
 - guidée par les cas d’utilisation
 - orientée réduction des risques
 
-Cette méthode permet d’organiser le développement en plusieurs étapes : analyse, conception et implémentation. :contentReference[oaicite:3]{index=3}
+Cette méthode permet d’organiser le développement en plusieurs étapes : analyse, conception et implémentation.
 
 ---
 
 # Modélisation du système
 
-La conception du système a été réalisée avec **UML**.
+La conception du système a été réalisée avec UML.
 
 Les diagrammes réalisés comprennent :
 
@@ -115,25 +115,25 @@ Le site a été développé avec les technologies suivantes :
 
 ### Frontend
 
-- **HTML5**
-- **CSS**
-- **JavaScript**
+- HTML5
+- CSS
+- JavaScript
 
 ### Backend
 
-- **PHP**
+- PHP
 
 ### Base de données
 
-- **MySQL**
+- MySQL
 
 ### Environnement de développement
 
-- **XAMPP**
+- XAMPP
 
 ### Architecture
 
-- **Architecture MVC (Model View Controller)**
+- Architecture MVC (Model View Controller)
 
 ---
 
