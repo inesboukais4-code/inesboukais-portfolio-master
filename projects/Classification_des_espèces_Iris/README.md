@@ -6,7 +6,7 @@ Ce projet consiste à développer un système de classification automatique des 
 
 L’objectif est de prédire l’espèce d’une fleur à partir de mesures morphologiques telles que la longueur et la largeur des sépales et des pétales.
 
-Le modèle est entraîné à partir du célèbre dataset Iris de Fisher, un jeu de données de référence en machine learning. :contentReference[oaicite:1]{index=1}
+Le modèle est entraîné à partir du célèbre dataset Iris de Fisher, un jeu de données de référence en machine learning.
 
 ---
 
@@ -39,7 +39,7 @@ Le dataset **Iris** contient :
   - Iris Versicolor
   - Iris Virginica
 
-Ces caractéristiques permettent de distinguer les différentes espèces grâce à leurs propriétés morphologiques. :contentReference[oaicite:2]{index=2}
+Ces caractéristiques permettent de distinguer les différentes espèces grâce à leurs propriétés morphologiques.
 
 ---
 
@@ -63,7 +63,7 @@ Une visualisation des données a été réalisée avec Matplotlib afin d’obser
 L’analyse visuelle montre que :
 
 - l’espèce Setosa est clairement séparée des autres
-- Versicolor et Virginica sont plus proches et nécessitent un modèle plus précis pour être distinguées. :contentReference[oaicite:3]{index=3}
+- Versicolor et Virginica sont plus proches et nécessitent un modèle plus précis pour être distinguées.
 
 ---
 
@@ -74,7 +74,7 @@ Pour entraîner et évaluer les modèles, les données ont été divisées en :
 - 70 % données d’entraînement
 - 30 % données de test
 
-Cette méthode permet de vérifier que le modèle fonctionne correctement sur des données inconnues. :contentReference[oaicite:4]{index=4}
+Cette méthode permet de vérifier que le modèle fonctionne correctement sur des données inconnues.
 
 ---
 
@@ -96,7 +96,7 @@ Performance :
 
 - précision : 97.7 %
 
-Ce modèle s’est révélé être le plus performant pour ce dataset. :contentReference[oaicite:5]{index=5}
+Ce modèle s’est révélé être le plus performant pour ce dataset.
 
 ---
 
@@ -163,7 +163,7 @@ Après comparaison des différents modèles :
 - le KNN a obtenu la meilleure performance
 - précision obtenue : 97.7 %
 
-Les visualisations confirment que les caractéristiques morphologiques sont de bons indicateurs pour distinguer les espèces d’Iris. :contentReference[oaicite:6]{index=6}
+Les visualisations confirment que les caractéristiques morphologiques sont de bons indicateurs pour distinguer les espèces d’Iris.
 
 ---
 
@@ -183,7 +183,7 @@ Ce projet m’a permis de :
 
 **Ines Boukais**
 
-Projet réalisé dans le cadre d’un cours d’**Intelligence Artificielle**  
+Projet réalisé dans le cadre d’un cours d’Intelligence Artificielle 
 Année universitaire **2023 / 2024**
 
 
