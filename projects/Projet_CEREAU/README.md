@@ -2,9 +2,9 @@
 
 ## Présentation
 
-**CER'EAU – Water For Everyone** est un projet réalisé dans le cadre des **Ateliers Transversaux et Interdisciplinaires (CATI L3)** à CY Cergy Paris Université.
+**CER'EAU – Water For Everyone** est un projet réalisé dans le cadre des Ateliers Transversaux et Interdisciplinaires (CATI L3) à CY Cergy Paris Université.
 
-L’objectif du projet est de proposer une solution innovante et durable pour améliorer l’accès à l’eau potable sur le territoire de Cergy grâce à l’installation de **fontaines à eau intelligentes**.
+L’objectif du projet est de proposer une solution innovante et durable pour améliorer l’accès à l’eau potable sur le territoire de Cergy grâce à l’installation de fontaines à eau intelligentes.
 
 Ces bornes permettent :
 - La distribution d’eau purifiée
@@ -28,12 +28,12 @@ Cette approche pluridisciplinaire a permis de proposer une solution complète, v
 
 ### Intégration Technologique
 
-- Mise en place d’un **système de gestion par QR Codes** pour :
+- Mise en place d’un système de gestion par QR Codes pour :
   - Accéder au service
   - Gérer les abonnements
   - Assurer le suivi des utilisateurs
 
-- Conception d’un **modèle d’abonnement annuel (80€/an)** donnant accès aux sirops naturels.
+- Conception d’un modèle d’abonnement annuel (80€/an) donnant accès aux sirops naturels.
 
 ---
 
@@ -44,9 +44,9 @@ Cette approche pluridisciplinaire a permis de proposer une solution complète, v
 - Vente de gourdes éco-responsables
 
 #### Coûts estimés
-- Fabrication d’une borne : **400 € / unité**
-- Approvisionnement en eau : **0,005 € / litre**
-- Stock initial de sirops : **~2000 €**
+- Fabrication d’une borne : 400 € / unité
+- Approvisionnement en eau : 0,005 € / litre
+- Stock initial de sirops : ~2000 €
 
 #### Partenariats
 - Mairie de Cergy
