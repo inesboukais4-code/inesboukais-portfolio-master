@@ -6,7 +6,7 @@ Ce projet consiste à développer un mini système de fichiers inspiré d’UNIX
 
 Le système repose sur un fichier unique simulant une partition, dans lequel sont stockées toutes les données du système de fichiers.
 
-Ce projet a été réalisé dans le cadre d’un **projet de systèmes d’exploitation**.
+Ce projet a été réalisé dans le cadre d’un projet de systèmes d’exploitation.
 
 ---
 
