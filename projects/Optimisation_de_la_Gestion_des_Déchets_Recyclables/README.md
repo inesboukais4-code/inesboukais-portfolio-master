@@ -10,7 +10,7 @@ La plateforme met en relation plusieurs acteurs :
 - les transporteurs
 - les entreprises de recyclage
 
-L’objectif est de simplifier la gestion de la collecte des déchets et d’améliorer la transparence du marché du recyclage. :contentReference[oaicite:1]{index=1}
+L’objectif est de simplifier la gestion de la collecte des déchets et d’améliorer la transparence du marché du recyclage.:contentReference[oaicite:1]{index=1}
 
 ---
 
